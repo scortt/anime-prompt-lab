@@ -26,6 +26,10 @@ anime-prompt-lab/
 └── prompt-versioning.md # Prompt 版本与验收规范
 ```
 
+## Featured Prompts
+
+- [日系时装插画：东京街角回眸](prompt-library/japanese-fashion-editorial/README.md) — 轻盈线稿、干净平涂、奶油白与浅桃色搭配；用户已验收 v1.0。
+
 ## Methodology
 
 不直接依赖“模仿某位作者”的描述，而是拆解视觉特征：
